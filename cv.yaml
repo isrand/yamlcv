@@ -1,42 +1,52 @@
 ---
-name: Israel Nebot Dominguez
-born: 1996-14-10 
+name: Isra Nebot Dominguez
+born: 1996-14-10
 location: Groningen, The Netherlands
 languages:
   - Spanish (Native)
   - English
   - Catalan
-title: Blockchain Developer
+title: Senior Blockchain Application Developer
 company: IBM Client Innovation Center Groningen
-linkedin: linkedin.com/in/israel-nebot/
-github: github.com/IsraelNebot
+linkedin: linkedin.com/in/isra-nebot/
+github: github.com/isrand
 experience:
   - name: IBM Client Innovation Center Groningen
-    location: Groningen, Netherlands
+    location: Groningen, The Netherlands
     period: 2018-11-01 / present
     roles:
+      - Senior Blockchain Application Developer
       - Blockchain Application Developer
+      - JavaScript / Web Developer
     technologies:
       - Hyperledger Fabric
       - NestJS
       - TypeScript
+      - Golang
 education:
   - name: Hanze Hogeschool
     location: Groningen, The Netherlands
     period: 2018-02-01 / 2018-07-26
     study: Communication and Multimedia Design / Videogame Design and Development
+    type: Erasmus+ Exchange
   - name: Universitat Jaume I
     location: Castellon de la Plana, Spain
     period: 2014-09-01 / 2018-10-28
     study: Videogame Design and Development
+    type: BSc.
 skills:
   - TypeScript
+  - Golang
   - C++
   - C#
   - Unity3D
   - Agile
   - Data structures
   - Algorithms
+certifications:
+  - IBM Blockchain Foundations for Architects
+  - AWS Cloud Practitioner Essentials
+  - Professional Scrum Master I 
 awards:
   - IBM Benelux Excellence Award 2019 (Vinturas project)
   - IBM GBS Europe WeDeliver Contest 2019 - Honorable mention for Innovation (Vinturas project)
